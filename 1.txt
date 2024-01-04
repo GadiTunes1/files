@@ -1,2 +1,2 @@
 One
-https://github.com/GadiTunes1/files/blob/main/2.txt
+https://raw.githubusercontent.com/GadiTunes1/files/main/2.txt
